@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify
 import pandas as pd
 import numpy as np
 from sklearn.cross_validation import train_test_split
